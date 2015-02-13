@@ -13,6 +13,7 @@
 		573D704C1A8DBC6100FDFE50 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 573D704B1A8DBC6100FDFE50 /* Images.xcassets */; };
 		573D704F1A8DBC6100FDFE50 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 573D704D1A8DBC6100FDFE50 /* LaunchScreen.xib */; };
 		573D705B1A8DBC6100FDFE50 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 573D705A1A8DBC6100FDFE50 /* PostcardTests.swift */; };
+		573D70671A8DC84200FDFE50 /* Screen Shot 2014-09-05 at 12.29.21 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 573D70661A8DC84200FDFE50 /* Screen Shot 2014-09-05 at 12.29.21 AM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		573D70541A8DBC6100FDFE50 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		573D70591A8DBC6100FDFE50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		573D705A1A8DBC6100FDFE50 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		573D70661A8DC84200FDFE50 /* Screen Shot 2014-09-05 at 12.29.21 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-09-05 at 12.29.21 AM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		573D70421A8DBC6100FDFE50 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				573D70661A8DC84200FDFE50 /* Screen Shot 2014-09-05 at 12.29.21 AM.png */,
 				573D70431A8DBC6100FDFE50 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +197,7 @@
 			files = (
 				573D704A1A8DBC6100FDFE50 /* Main.storyboard in Resources */,
 				573D704F1A8DBC6100FDFE50 /* LaunchScreen.xib in Resources */,
+				573D70671A8DC84200FDFE50 /* Screen Shot 2014-09-05 at 12.29.21 AM.png in Resources */,
 				573D704C1A8DBC6100FDFE50 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -407,6 +411,7 @@
 				573D70601A8DBC6100FDFE50 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		573D70611A8DBC6100FDFE50 /* Build configuration list for PBXNativeTarget "PostcardTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +420,7 @@
 				573D70631A8DBC6100FDFE50 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
